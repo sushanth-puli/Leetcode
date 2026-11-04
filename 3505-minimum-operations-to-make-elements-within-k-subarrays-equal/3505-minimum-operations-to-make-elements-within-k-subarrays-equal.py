@@ -1,32 +1,45 @@
-class Window:
-    """A sorted window that keeps the sum of its h = x // 2 smallest values."""
-
-    def __init__(self, values):
-        self.h, self.odd = len(values) // 2, len(values) & 1
-        self.sorted = SortedList(values)
-        self.low, self.total = sum(self.sorted[:self.h]), sum(values)
-
-    @property
-    def cost(self):  # larger half minus smaller half
-        return self.total - 2 * self.low - self.odd * self.sorted[self.h]
-
-    def slide(self, out, new):
-        s, h = self.sorted, self.h
-        if new < s[h - 1]:  # new joins the h smallest and pushes their largest up
-            self.low += new - s[h - 1]
-        s.add(new)
-        if out <= s[h - 1]:  # out was among the h smallest: the next value moves down
-            self.low += s[h] - out
-        s.remove(out)
-        self.total += new - out
-        return self.cost
-
+from sortedcontainers import SortedList
 
 class Solution:
     def minOperations(self, nums: List[int], x: int, k: int) -> int:
-        win = Window(nums[:x])
-        cost = [win.cost] + [win.slide(out, new) for out, new in zip(nums, nums[x:])]
-        best = [0] * (len(nums) + 1)  # best[i]: min ops for the windows placed so far inside nums[:i]
-        for _ in range(k):
-            best = list(accumulate([inf] * x + [b + c for b, c in zip(best, cost)], min))
-        return best[-1]
+        n = len(nums)
+        vals = [None]*n
+        upper = SortedList()
+        lower = SortedList()
+        su = sl = 0 
+        for i, v in enumerate(nums): 
+            if not upper or upper[0] <= v: 
+                upper.add(v)
+                su += v
+            else: 
+                lower.add(v)
+                sl += v
+            if i >= x: 
+                vv = nums[i-x]
+                if vv >= upper[0]: 
+                    upper.remove(vv)
+                    su -= vv
+                else: 
+                    lower.remove(vv)
+                    sl -= vv
+            while len(upper) > len(lower)+1: 
+                v = upper[0]
+                upper.remove(v)
+                su -= v
+                lower.add(v)
+                sl += v
+            while len(upper) < len(lower): 
+                v = lower[-1]
+                lower.remove(v)
+                sl -= v
+                upper.add(v)
+                su += v
+            if i >= x-1: vals[i-x+1] = su - sl - upper[0]*(len(upper)-len(lower))
+    
+        dp = [[inf]*(k+1) for _ in range(n+1)]
+        for i in range(n, -1, -1): 
+            dp[i][0] = 0
+            for j in range(1, k+1): 
+                if n-i >= j*x: 
+                    dp[i][j] = min(dp[i+1][j], vals[i] + dp[i+x][j-1])
+        return dp[0][k]
