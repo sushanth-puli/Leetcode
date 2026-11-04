@@ -18,16 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sushanth-puli/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sushanth-puli/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sushanth-puli/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sushanth-puli/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sushanth-puli/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -41,9 +44,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sushanth-puli/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sushanth-puli/Leetcode/tree/master/0076-minimum-window-substring) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sushanth-puli/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sushanth-puli/Leetcode/tree/master/0076-minimum-window-substring) |
+## Math
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
