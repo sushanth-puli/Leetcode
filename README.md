@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sushanth-puli/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/sushanth-puli/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sushanth-puli/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sushanth-puli/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sushanth-puli/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
