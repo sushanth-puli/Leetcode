@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sushanth-puli/Leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/sushanth-puli/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/sushanth-puli/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sushanth-puli/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sushanth-puli/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sushanth-puli/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sushanth-puli/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/sushanth-puli/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0220-contains-duplicate-iii](https://github.com/sushanth-puli/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/sushanth-puli/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2747-count-zero-request-servers](https://github.com/sushanth-puli/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sushanth-puli/Leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/sushanth-puli/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sushanth-puli/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/sushanth-puli/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Linked List
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sushanth-puli/Leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/sushanth-puli/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sushanth-puli/Leetcode/tree/master/0164-maximum-gap) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/sushanth-puli/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
