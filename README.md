@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sushanth-puli/Leetcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/sushanth-puli/Leetcode/tree/master/0069-sqrtx) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sushanth-puli/Leetcode/tree/master/0069-sqrtx) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sushanth-puli/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sushanth-puli/Leetcode/tree/master/0912-sort-an-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sushanth-puli/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
