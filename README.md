@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sushanth-puli/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sushanth-puli/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sushanth-puli/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1882-process-tasks-using-servers](https://github.com/sushanth-puli/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/sushanth-puli/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sushanth-puli/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sushanth-puli/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1882-process-tasks-using-servers](https://github.com/sushanth-puli/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Queue
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sushanth-puli/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sushanth-puli/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2747-count-zero-request-servers](https://github.com/sushanth-puli/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Linked List
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sushanth-puli/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sushanth-puli/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sushanth-puli/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/sushanth-puli/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Merge Sort
 |  |
 | ------- |
@@ -267,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/sushanth-puli/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sushanth-puli/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Trie
 |  |
 | ------- |
@@ -287,10 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/sushanth-puli/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sushanth-puli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Bracket Sequences
 |  |
 | ------- |
