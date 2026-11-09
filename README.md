@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sushanth-puli/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0324-wiggle-sort-ii](https://github.com/sushanth-puli/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sushanth-puli/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/sushanth-puli/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sushanth-puli/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0692-top-k-frequent-words](https://github.com/sushanth-puli/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/sushanth-puli/Leetcode/tree/master/0912-sort-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/sushanth-puli/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/sushanth-puli/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sushanth-puli/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/sushanth-puli/Leetcode/tree/master/0413-arithmetic-slices) |
 | [2747-count-zero-request-servers](https://github.com/sushanth-puli/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sushanth-puli/Leetcode/tree/master/0022-generate-parentheses) |
+| [0413-arithmetic-slices](https://github.com/sushanth-puli/Leetcode/tree/master/0413-arithmetic-slices) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sushanth-puli/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
