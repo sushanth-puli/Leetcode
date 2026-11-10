@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sushanth-puli/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sushanth-puli/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/sushanth-puli/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/sushanth-puli/Leetcode/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sushanth-puli/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sushanth-puli/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/sushanth-puli/Leetcode/tree/master/0062-unique-paths) |
 | [0413-arithmetic-slices](https://github.com/sushanth-puli/Leetcode/tree/master/0413-arithmetic-slices) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sushanth-puli/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -359,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/sushanth-puli/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sushanth-puli/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
