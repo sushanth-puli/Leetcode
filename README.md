@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/sushanth-puli/Leetcode/tree/master/0458-poor-pigs) |
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sushanth-puli/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/sushanth-puli/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sushanth-puli/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
 |  |
 | ------- |
