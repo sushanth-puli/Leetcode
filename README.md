@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sushanth-puli/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/sushanth-puli/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/sushanth-puli/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Queue
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/sushanth-puli/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/sushanth-puli/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sushanth-puli/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/sushanth-puli/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sushanth-puli/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/sushanth-puli/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sushanth-puli/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sushanth-puli/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sushanth-puli/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sushanth-puli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/sushanth-puli/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sushanth-puli/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/sushanth-puli/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1267-count-servers-that-communicate](https://github.com/sushanth-puli/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sushanth-puli/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Backtracking
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/sushanth-puli/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/sushanth-puli/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/sushanth-puli/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sushanth-puli/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Counting
 |  |
@@ -374,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/sushanth-puli/Leetcode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/sushanth-puli/Leetcode/tree/master/0458-poor-pigs) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/sushanth-puli/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
