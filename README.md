@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1267-count-servers-that-communicate](https://github.com/sushanth-puli/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sushanth-puli/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sushanth-puli/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sushanth-puli/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sushanth-puli/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sushanth-puli/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sushanth-puli/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/sushanth-puli/Leetcode/tree/master/0458-poor-pigs) |
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sushanth-puli/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sushanth-puli/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sushanth-puli/Leetcode/tree/master/0062-unique-paths) |
 | [0413-arithmetic-slices](https://github.com/sushanth-puli/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0458-poor-pigs](https://github.com/sushanth-puli/Leetcode/tree/master/0458-poor-pigs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sushanth-puli/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sushanth-puli/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sushanth-puli/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/sushanth-puli/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sushanth-puli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sushanth-puli/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sushanth-puli/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Bracket Sequences
 |  |
