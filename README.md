@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sushanth-puli/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/sushanth-puli/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sushanth-puli/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sushanth-puli/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sushanth-puli/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sushanth-puli/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Geometry
 |  |
 | ------- |
