@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sushanth-puli/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sushanth-puli/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/sushanth-puli/Leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/sushanth-puli/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sushanth-puli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sushanth-puli/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/sushanth-puli/Leetcode/tree/master/0218-the-skyline-problem) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sushanth-puli/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sushanth-puli/Leetcode/tree/master/0200-number-of-islands) |
 | [0341-flatten-nested-list-iterator](https://github.com/sushanth-puli/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [1267-count-servers-that-communicate](https://github.com/sushanth-puli/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sushanth-puli/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sushanth-puli/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sushanth-puli/Leetcode/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sushanth-puli/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1267-count-servers-that-communicate](https://github.com/sushanth-puli/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sushanth-puli/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -336,12 +339,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sushanth-puli/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sushanth-puli/Leetcode/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sushanth-puli/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sushanth-puli/Leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/sushanth-puli/Leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/sushanth-puli/Leetcode/tree/master/0200-number-of-islands) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sushanth-puli/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1267-count-servers-that-communicate](https://github.com/sushanth-puli/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
