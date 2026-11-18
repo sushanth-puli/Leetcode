@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/sushanth-puli/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sushanth-puli/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/sushanth-puli/Leetcode/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/sushanth-puli/Leetcode/tree/master/0493-reverse-pairs) |
 | [0692-top-k-frequent-words](https://github.com/sushanth-puli/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/sushanth-puli/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sushanth-puli/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sushanth-puli/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/sushanth-puli/Leetcode/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/sushanth-puli/Leetcode/tree/master/0493-reverse-pairs) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sushanth-puli/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/sushanth-puli/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sushanth-puli/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sushanth-puli/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/sushanth-puli/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/sushanth-puli/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sushanth-puli/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/sushanth-puli/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/sushanth-puli/Leetcode/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sushanth-puli/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sushanth-puli/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/sushanth-puli/Leetcode/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/sushanth-puli/Leetcode/tree/master/0493-reverse-pairs) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sushanth-puli/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Counting
 |  |
@@ -392,10 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/sushanth-puli/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/sushanth-puli/Leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/sushanth-puli/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/sushanth-puli/Leetcode/tree/master/0493-reverse-pairs) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sushanth-puli/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sweep Line
 |  |
@@ -423,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/sushanth-puli/Leetcode/tree/master/0456-132-pattern) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sushanth-puli/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sushanth-puli/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
