@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sushanth-puli/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sushanth-puli/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/sushanth-puli/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/sushanth-puli/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0456-132-pattern](https://github.com/sushanth-puli/Leetcode/tree/master/0456-132-pattern) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sushanth-puli/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/sushanth-puli/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sushanth-puli/Leetcode/tree/master/0200-number-of-islands) |
 | [0341-flatten-nested-list-iterator](https://github.com/sushanth-puli/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sushanth-puli/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/sushanth-puli/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
@@ -437,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sushanth-puli/Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sushanth-puli/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
