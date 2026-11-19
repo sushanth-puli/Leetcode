@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sushanth-puli/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1882-process-tasks-using-servers](https://github.com/sushanth-puli/Leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sushanth-puli/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/sushanth-puli/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sushanth-puli/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sushanth-puli/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sushanth-puli/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sushanth-puli/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sushanth-puli/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sushanth-puli/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/sushanth-puli/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Linked List
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/sushanth-puli/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sushanth-puli/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sushanth-puli/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
 |  |
